@@ -1,0 +1,22 @@
+{
+  "name": "alibeibei/db",
+  "description": "db",
+  "minimum-stability": "dev",
+  "keywords": [
+    "file"
+  ],
+  "config": {
+    "process-timeout": 1800
+  },
+  "authors": [
+    {
+      "name": "alibeibei",
+      "email": "1939612669@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "db": "src"
+    }
+  }
+}
